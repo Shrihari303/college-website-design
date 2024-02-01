@@ -1,0 +1,141 @@
+.edu{
+    border-style: solid;
+    display: flex;
+}
+#center{
+    display: flex;
+    padding-left: 300px;
+    padding-top: 20px ;
+}
+#coll{
+    padding-left: 150px;
+    padding-top: 17px;
+    color:rgb(81, 81, 239);
+}
+#join{
+    color: blue;
+}
+#cont{
+    width: 500px;
+    padding-top: 100px;
+    padding-left: 50px;
+    margin-left: 40px;
+}
+.detail{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+}
+#stu{
+    padding-top: 110px;
+    padding-right: 100px;
+    
+}
+#18{
+    border-style: solid;
+    background-color: white;
+
+}
+#pl{
+    background-color: plum;
+}
+#am{
+    display: grid;
+    grid-template-columns: 16.5% 16.5% 16.5% 16.5% 16.5% 16.5%;
+    grid-row-gap: 15px;
+    padding-left: 30px;
+    padding-top: 100px;
+
+}
+#pla{
+    padding-top: 100px;
+    padding-left: 500px;
+}
+#last{
+    background-color: rgb(121, 121, 240);
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+
+}
+#pr{
+    padding-left: 20px;
+}
+#pr a{
+    color: white;
+}
+#ac a{
+    color: white;
+}
+#im a{
+    color: white;
+}
+#co{
+    color: white;
+}
+#co a{
+    color: white;
+}
+.lastt{
+    background-color: rgb(57, 53, 53);
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding-top: 20px;
+    
+}
+   
+ 
+#font{
+    font-size: 50px;
+    padding-left: 50px;
+
+    
+}
+.stfor{
+    display: grid;
+     grid-template-columns: 70% 30%;
+    background-color: plum;
+}
+#for{
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+  
+}
+#st{
+    text-align: center;
+    padding-top: 40px;
+}
+.hall{
+    text-align: center;
+    padding-top: 100px;
+}
+#be{
+    padding-left: 250px;
+    padding-top: 150px;
+}
+
+#car{
+   display: grid;
+   grid-template-columns: 33% 33% 33%;
+   grid-row-gap: 70px;
+   padding-top: 130px;
+   padding-left: 50px;
+   
+   
+}
+.corse{
+    background-color: plum;
+}
+#ved{
+    display: flex;
+    width: 200px;
+    padding-left: 150px;
+}
+#al{
+    padding-left: 500px;
+    padding-top: 200px;
+}
